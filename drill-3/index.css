@@ -1,0 +1,38 @@
+#top-rect {
+    background-color: #D8D8D8;
+    height: 13vh;
+    display: flex;
+    align-items: center;
+}
+
+#blue-square {
+    background-color: #5B8FDC;
+    width: 5vh;
+    height: 5vh;
+    margin: 1vw;
+}
+
+#text {
+    margin: 6vh;
+}
+
+#blue-rect {
+    background-color:#5B8FDC;
+    height: 32vh;
+}
+
+#seafoam {
+    background-color: #7BE0C3;
+    height: 32vh;
+}
+
+#weird-green {
+    background-color: #C2E791;
+    height: 32vh;
+}
+
+#yellow {
+    background-color: #F5E752;
+    height: 32vh;
+}
+
