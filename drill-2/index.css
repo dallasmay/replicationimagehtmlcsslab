@@ -1,0 +1,76 @@
+#solid-border {
+    border-style: solid;
+    padding: 10px;
+    height: 30vh;
+    margin: 2vh;
+    position: relative;
+}
+
+#purp-rect {
+    background-color: #8A2BE2;
+    height: 75%;
+    width: 4%;
+    position: absolute;
+    bottom: 10px;
+    display: inline-block;
+}
+
+#green-rect {
+    background-color: #228B22;
+    width: 25%;
+    height: 90%;
+    position: absolute;
+    left: 10%;
+    display: inline-block;
+}
+
+#blue-circ {
+    background-color: #87CEEB;
+    height: 30vh;
+    width: 30vh;
+    position: absolute;
+    left: 40%;
+    border-radius: 50%;
+}
+
+#dotted-border {
+    border-style: dotted;
+    border: dotted 4px;
+    padding: 10px;
+    height: 40vh;
+    margin: 2vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#yellow-rect {
+    background-color: #FFFACD;
+    height: 80%;
+    width: 94%;
+    box-shadow: 10px 10px 10px;
+}
+
+#outside-hello-friends {
+    display: flex;
+    justify-content: center;
+}
+
+#hello-friends {
+    padding: 10px;
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    margin: 2vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* box-shadow: 3px 3px 3px; */
+    font-size: 36px;
+    font-weight: bold;
+    border: 2px solid #CCCCCC;
+    color: #000080;
+}
