@@ -1,0 +1,30 @@
+body {
+    margin: 0
+}
+
+#top-rectangle {
+    background-color: #444444;
+    height: 190px;
+}
+
+.side-rectangles {
+    background-color: #D8D8D8;
+    height: 531px;
+    width: 180px;
+}
+
+#bottom-rectangle {
+    background-color: black;
+    height: 15%;
+    width: 90%;
+    position: fixed;
+    bottom: 0px;
+    z-index: -1;
+}
+
+#parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
